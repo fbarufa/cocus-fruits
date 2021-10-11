@@ -1,0 +1,5 @@
+# requirements.txt for harvest.py
+threading 
+random
+time
+os
