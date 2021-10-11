@@ -22,7 +22,7 @@ cleaning them, and pushing them into the single cleaned fruit basket.
 7. The simulation ends when all the fruits from the tree are collected and cleaned.
 8. The number of fruits in the tree and in the baskets must be logged every second.
 
-####Expected deliverable
+#### Expected deliverable
 Your code should be executable with the following call “yourScript.py”, with a similar output log to the one below:
 
 - 2020-12-01 19:02:00 Tree (50 fruits) - dirty basket ( 0 ) - Clean Basket ( 0 ) – farmer1 (0) – farmer2 (0) – cleaner1(0) – cleaner2 (0)
