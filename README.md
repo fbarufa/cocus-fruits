@@ -1,12 +1,13 @@
 
-##harvest.py
-Fabiano Barufaldi - barufa@gmail.com 
+## harvest.py
+Fabiano Barufaldi (barufa@gmail.com)
+
 Cocus challenge #2 - Farmers collecting and cleaning fruits
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 
-####Definition
+#### Definition
 
 In this exercise we will be testing your multithreading skills.
 Suppose that you want to simulate a fruit farm:
